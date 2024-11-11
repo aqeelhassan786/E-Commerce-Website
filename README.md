@@ -15,6 +15,8 @@ This is a front-end e-commerce website designed to provide a seamless online sho
   - About Us, and How to Download Our App
 - Contact Page
   - Head Office, Location Map, and send Message Form
+- Responsive Design
+  - Optimized for Desktop, iPad, and Mobile
 
 
 ### Steps
