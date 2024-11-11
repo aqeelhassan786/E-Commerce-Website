@@ -1,2 +1,24 @@
-This is the front end of an e-commerce website for online shopping. We offer a wide variety of men's and women's clothing for all types of weather conditions.
-![Screenshot 2024-10-07 023519](https://github.com/user-attachments/assets/d93c0acc-180f-4f26-87bf-6af0d0c065fa)
+# E-Commerce-Website-With-HTML-CSS-And-JavaScript
+
+## Overview
+This is a front-end e-commerce website designed to provide a seamless online shopping experience. The project includes user authentication, product listings, a shopping cart, and an order management system.
+
+
+### Features:
+- Home Page
+  - Register, login, and profile management
+- Shop Page
+  - Featured Products, New Arrivals, and view product details
+- Blog Page
+  - Offers, Season Sals, and New Footwear Collections
+- About Page
+  - About Us, and How to Download Our App
+- Contact Page
+  - Head Office, Location Map, and send Message Form
+
+
+### Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/aqeelhassan786/E-Commerce-Website.git
+   cd E-Commerce-Website
