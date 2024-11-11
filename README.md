@@ -4,7 +4,7 @@
 This is a front-end e-commerce website designed to provide a seamless online shopping experience. The project includes user authentication, product listings, a shopping cart, and an order management system.
 
 
-### Features:
+### Sections:
 - Home Page
   - Register, login, and profile management
 - Shop Page
@@ -15,8 +15,14 @@ This is a front-end e-commerce website designed to provide a seamless online sho
   - About Us, and How to Download Our App
 - Contact Page
   - Head Office, Location Map, and send Message Form
-- Responsive Design
-  - Optimized for Desktop, iPad, and Mobile
+
+
+### Features
+Responsive Design: Optimized for Desktop, iPhad and Mobile.
+Interactive UI: Engaging animations and dynamic content.
+Content: Website for Online Shoping.
+Navigation: Easy-to-use, intuitive menu and layout.
+Contact Form: Simple form for user inquiries.
 
 
 ### Steps
